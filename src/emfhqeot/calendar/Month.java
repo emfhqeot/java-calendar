@@ -12,6 +12,7 @@ public class Month {
 		
 		System.out.printf("%d월은 %d일까지 입니다.", m, a[m-1]);
 
+		Scanner.close;
 		}
 
 	}
