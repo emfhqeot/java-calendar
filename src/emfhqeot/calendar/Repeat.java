@@ -11,7 +11,7 @@ public class Repeat {
 		for(int i = 0; i < repeat; i++) {
 			System.out.println("원하는 달 입력하세여");
 			int m = scanner.nextInt();
-			int[] a = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30 };
+			int[] a = { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 			System.out.printf("%d월은 %d일까지 입니다.", m, a[m-1]);
 			
 		}
