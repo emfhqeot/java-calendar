@@ -17,7 +17,7 @@ public class Repeat {
 		}
 		//		int number = scanner.nextInt();
 		for (int i = 1; i < 13; i++) {
-
+			scanner.close();
 		}
 	}
 
